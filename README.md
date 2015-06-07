@@ -6,3 +6,5 @@ And another change!
 Change with chef
 ---
 1
+---
+2
